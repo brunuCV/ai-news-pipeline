@@ -23,6 +23,11 @@ O projeto segue os princípios de engenharia de dados moderna, dividindo o proce
 * **IA/ML:** Uso de modelos de Deep Learning para análise de texto (NLP) e métricas de classificação.
 * **Organização:** Estrutura de código modularizada e documentada.
 
+* ## 📈 Visualização dos Resultados
+Confira abaixo o Dashboard interativo gerado após o processamento da IA:
+
+![Dashboard Preview](<img width="2527" height="912" alt="Captura de tela 2026-03-11 163045" src="https://github.com/user-attachments/assets/d9dfdcae-9541-4af5-bb5a-1fc45be302c6" />)
+
 ## 🚀 Como Executar
 
 1. Clone o repositório:
