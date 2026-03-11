@@ -27,4 +27,4 @@ O projeto segue os princípios de engenharia de dados moderna, dividindo o proce
 
 Confira abaixo o Dashboard interativo gerado a partir do pipeline de dados e processamento de IA:
 
-![AI News Sentinel Dashboard](painel.png)
+[Painel de Notícias](imagens/painel.png)
