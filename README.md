@@ -23,13 +23,8 @@ O projeto segue os princípios de engenharia de dados moderna, dividindo o proce
 * **IA/ML:** Uso de modelos de Deep Learning para análise de texto (NLP) e métricas de classificação.
 * **Organização:** Estrutura de código modularizada e documentada.
 
-* ## 📈 Visualização dos Resultados
-Confira abaixo o Dashboard interativo gerado após o processamento da IA:
+## 📊 Resultados e Visualização
 
-![Dashboard Preview](<img width="2527" height="912" alt="Captura de tela 2026-03-11 163045" src="https://github.com/user-attachments/assets/d9dfdcae-9541-4af5-bb5a-1fc45be302c6" />)
+Confira abaixo o Dashboard interativo gerado a partir do pipeline de dados e processamento de IA:
 
-## 🚀 Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/SEU_USUARIO/ai-news-pipeline.git](https://github.com/SEU_USUARIO/ai-news-pipeline.git)
+![AI News Sentinel Dashboard](dashboard.png)
